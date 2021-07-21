@@ -1,0 +1,3 @@
+export const GET_FRIENDS_SUC = "GET_FRIENDS_SUC"
+export const GET_FRIENDS_REQ = "GET_FRIENDS_REQ"
+export const GET_FRIENDS_FAIL = "GET_FRIENDS_FAIL"
