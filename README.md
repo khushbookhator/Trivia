@@ -1,4 +1,4 @@
-<h2>Everstylish Clone</h2>
+<h2>Trivia</h2>
 In the project directory, I've made an Interesting Quiz application of top 3 popular web-shows.
 
 <hr/>
