@@ -32,6 +32,18 @@ In the project directory, I've made an Interesting Quiz application of top 3 pop
 <hr/>
 
 ## Installation and Setup Instructions
-Clone down this repository. You will need node and npm installed globally on your machine. 
-Installation: npm install To Run Test Suite: npm test To Start Server: npm start To Visit App: localhost:3000/
+Clone down this repository using this <a href="https://github.com/khushbookhator/Trivia">link</a>
+
+You will need node and npm installed globally on your machine. 
+
+Inside Client install with npm
+
+
+```bash
+  npm install
+```
+
+To Run Test Suite: npm test To Start Server: npm start
+
+To Visit App: localhost:3000/
 
